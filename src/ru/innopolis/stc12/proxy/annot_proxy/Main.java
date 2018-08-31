@@ -1,4 +1,4 @@
-package annot_proxy;
+package ru.innopolis.stc12.proxy.annot_proxy;
 
 import java.lang.reflect.Proxy;
 

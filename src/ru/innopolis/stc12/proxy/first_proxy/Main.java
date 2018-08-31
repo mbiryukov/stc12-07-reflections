@@ -1,4 +1,4 @@
-package first_proxy;
+package ru.innopolis.stc12.proxy.first_proxy;
 
 import java.lang.reflect.Proxy;
 

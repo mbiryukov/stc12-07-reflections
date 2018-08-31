@@ -1,4 +1,4 @@
-package first_proxy;
+package ru.innopolis.stc12.proxy.first_proxy;
 
 public class JavaTrainer implements Trainer {
     @Override

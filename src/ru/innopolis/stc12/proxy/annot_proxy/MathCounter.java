@@ -1,4 +1,4 @@
-package annot_proxy;
+package ru.innopolis.stc12.proxy.annot_proxy;
 
 @Logged
 public class MathCounter implements Counter {
